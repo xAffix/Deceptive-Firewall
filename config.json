@@ -1,0 +1,14 @@
+{
+  "listen_dns": ":53",
+  "listen_tcp": ":80",
+  "default_dns": "192.168.1.1",
+  "os_fingerprints": [
+    "Windows NT 10.0",
+    "Linux 3.10",
+    "FreeBSD 12.0",
+    "OpenBSD 6.6",
+    "Solaris 11.4"
+  ],
+  "rate_limit_period": 60,
+  "rate_limit_count": 10
+}
